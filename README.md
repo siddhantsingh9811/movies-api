@@ -135,4 +135,3 @@ Errors are returned in JSON with appropriate HTTP status codes:
 
 ---
 
-Happy coding!
