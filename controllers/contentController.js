@@ -10,7 +10,7 @@ const searchContent = async (req, res) => {
 			}
 		});
 		let userAge = u.age;
-		console.log(userAge)
+		
 		
 		const skip = (page - 1) * limit
 		
