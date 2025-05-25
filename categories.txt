@@ -1,0 +1,42 @@
+Comedies: 79
+Dramas: 79
+International TV Shows: 78
+International Movies: 70
+Action & Adventure: 65
+TV Dramas: 63
+TV Comedies: 52
+TV Action & Adventure: 43
+Crime TV Shows: 42
+Children & Family Movies: 40
+Independent Movies: 40
+Sci-Fi & Fantasy: 39
+Horror Movies: 36
+Music & Musicals: 36
+Romantic Movies: 36
+Classic Movies: 33
+Thrillers: 33
+Kids' TV: 33
+TV Sci-Fi & Fantasy: 30
+Cult Movies: 28
+Sports Movies: 28
+Romantic TV Shows: 28
+British TV Shows: 28
+Docuseries: 28
+Documentaries: 27
+TV Horror: 27
+Reality TV: 27
+TV Mysteries: 23
+Spanish-Language TV Shows: 21
+Teen TV Shows: 21
+LGBTQ Movies: 21
+TV Thrillers: 19
+Anime Series: 18
+Faith & Spirituality: 17
+Anime Features: 16
+Classic & Cult TV: 15
+Science & Nature TV: 12
+Stand-Up Comedy & Talk Shows: 10
+Korean TV Shows: 10
+Stand-Up Comedy: 3
+Movies: 1
+TV Shows: 1
